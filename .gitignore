@@ -1,0 +1,21 @@
+# Public repository: add new paths explicitly after review.
+/*
+!/.gitignore
+!/.gitattributes
+!/AutoCopy.sln
+!/LICENSE
+!/README.md
+!/THIRD_PARTY_NOTICES.md
+!/src/
+
+/src/*
+!/src/AutoCopy/
+/src/AutoCopy/*
+!/src/AutoCopy/*.cs
+!/src/AutoCopy/*.csproj
+!/src/AutoCopy/Assets/
+/src/AutoCopy/Assets/*
+!/src/AutoCopy/Assets/*.ico
+!/src/AutoCopy/Assets/copy-source.svg
+!/src/AutoCopy/Assets/generate-icons.py
+!/src/AutoCopy/Assets/mouse-click.mp3

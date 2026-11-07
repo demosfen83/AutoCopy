@@ -1,0 +1,2 @@
+# Preserve the experimental LF fixture exactly for line-ending investigations.
+experiment/test-text.txt -text
